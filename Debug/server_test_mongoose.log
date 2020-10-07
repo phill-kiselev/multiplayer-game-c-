@@ -1,0 +1,18 @@
+﻿  mongoose.c
+C:\Users\stphill\Desktop\Projects\game_babylon\server_test_mongoose\server_test_mongoose\mongoose.c(10983,31): warning C4267: =: преобразование из "size_t" в "uint16_t"; возможна потеря данных
+C:\Users\stphill\Desktop\Projects\game_babylon\server_test_mongoose\server_test_mongoose\mongoose.c(10995,37): warning C4267: =: преобразование из "size_t" в "uint16_t"; возможна потеря данных
+C:\Users\stphill\Desktop\Projects\game_babylon\server_test_mongoose\server_test_mongoose\mongoose.c(10996,39): warning C4267: =: преобразование из "size_t" в "uint16_t"; возможна потеря данных
+C:\Users\stphill\Desktop\Projects\game_babylon\server_test_mongoose\server_test_mongoose\mongoose.c(11007,38): warning C4267: =: преобразование из "size_t" в "uint16_t"; возможна потеря данных
+C:\Users\stphill\Desktop\Projects\game_babylon\server_test_mongoose\server_test_mongoose\mongoose.c(11011,35): warning C4267: =: преобразование из "size_t" в "uint16_t"; возможна потеря данных
+C:\Users\stphill\Desktop\Projects\game_babylon\server_test_mongoose\server_test_mongoose\mongoose.c(11056,1): warning C4267: инициализация: преобразование из "size_t" в "uint16_t"; возможна потеря данных
+C:\Users\stphill\Desktop\Projects\game_babylon\server_test_mongoose\server_test_mongoose\mongoose.c(11095,40): warning C4267: =: преобразование из "size_t" в "uint16_t"; возможна потеря данных
+C:\Users\stphill\Desktop\Projects\game_babylon\server_test_mongoose\server_test_mongoose\mongoose.c(11135,34): warning C4267: =: преобразование из "size_t" в "uint16_t"; возможна потеря данных
+C:\Users\stphill\Desktop\Projects\game_babylon\server_test_mongoose\server_test_mongoose\mongoose.c(16164,32): warning C4273: rmdir: несовместимое связывание dll
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\direct.h(116,26): message : см. предыдущее определение "rmdir"
+  websocket_chat.cpp
+C:\Users\stphill\Desktop\Projects\game_babylon\server_test_mongoose\server_test_mongoose\websocket_chat.cpp(18,21): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\stphill\Desktop\Projects\game_babylon\server_test_mongoose\server_test_mongoose\websocket_chat.cpp(19,23): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\stphill\Desktop\Projects\game_babylon\server_test_mongoose\server_test_mongoose\websocket_chat.cpp(53,8): warning C4101: buf: неиспользованная локальная переменная
+C:\Users\stphill\Desktop\Projects\game_babylon\server_test_mongoose\server_test_mongoose\websocket_chat.cpp(52,25): warning C4101: c: неиспользованная локальная переменная
+     Создается библиотека C:\Users\stphill\Desktop\Projects\game_babylon\server_test_mongoose\server_test_mongoose\Debug\server_test_mongoose.lib и объект C:\Users\stphill\Desktop\Projects\game_babylon\server_test_mongoose\server_test_mongoose\Debug\server_test_mongoose.exp
+  server_test_mongoose.vcxproj -> C:\Users\stphill\Desktop\Projects\game_babylon\server_test_mongoose\server_test_mongoose\Debug\server_test_mongoose.exe

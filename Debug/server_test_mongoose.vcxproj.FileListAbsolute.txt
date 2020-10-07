@@ -1,0 +1,2 @@
+C:\Users\stphill\Desktop\Projects\game_babylon\server_test_mongoose\server_test_mongoose\Debug\server_test_mongoose.exe
+C:\Users\stphill\Desktop\Projects\game_babylon\server_test_mongoose\server_test_mongoose\Debug\server_test_mongoose.pdb
